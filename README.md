@@ -12,4 +12,10 @@ Aby uzywac nalezy:
 - Appium
 - Jenkins
 
+## Znajomosc jezykow programowania:
+* C
+* C++
+* Python
+* PHP
+
 Copyright by TESTER TEAM
